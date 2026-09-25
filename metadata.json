@@ -1,0 +1,11 @@
+{
+  "name": "AI Face Intelligence",
+  "description": "Advanced AI Face Intelligence and Computer Vision Lab featuring multi-face tracking, target locking, biometric identity memory, face quality assessment, and Gemini multimodal reasoning.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
